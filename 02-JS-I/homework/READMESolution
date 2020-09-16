@@ -1,0 +1,27 @@
+VARIABLES:
+    Las variables son usadas en JavaScript como forma de almacenar el valor de algo que en un futuro vamos a usar.
+    Podemos anotar las variables de 3 formas distintas.
+        1. var 
+        2. let
+        3. const
+
+STRINGS:
+    Las strings son caracteres, ya sean numeros o letras, que se encuentran encerradas entre comillas (simples o dobles)
+    Por lo que cuando veamos cualquier bloque de texto entre comillas sabremos que se trata de una cadena o string.
+
+FUNCIONES:
+    En JavaScript contamos con funciones, las cuales nos ayudan a calcular, cambiar o hacer algo con las variables.
+    Las funciones comienzan con la palabra clave function y luego le damos un nombre a nuestra funcion.
+    Luego del nombre, nuestra funcion tiene que tener un parentesis abierto y uno cerrado, entre medio de ellos podremos colocar argumentos,
+    estos argumentos nos permiten colocarle variables adentro de la funcion.
+    Para que la funcion nos devuelva estos argumentos o lo que nosotros necesitemos esta el comando return. Nos devolvera lo que se le pida que este dentro de la funcion
+    
+DECLARACIONES:
+    Existe un codigo para que nuestra funcion verifique si algo es verdadero o falso. Para ello ocuparemos el if, cuando ocupemos el if
+    le estaremos diciendo a nuestra funcion que si lo que esta dentro del argumento del if es verdadero haga una serie de cosas.
+    Y si no le escribiremos que haga otra cosa.
+
+VALORES BOOLEANOS:  
+    Para ocupar las declaraciones y el if de manera adecuada tenemos que saber que en JavaScript existen valores verdaderos y otros falsos, o dichos de forma correcta true or false.
+    Esto se conoce como valores booleanos, a una preposicion que nosotros digamos le asignaremos un valor de verdad y asi el programa codea en funcion de eso.
+    
