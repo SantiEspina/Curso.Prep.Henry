@@ -1,0 +1,13 @@
+FOR:
+    For es un bucle utilizado en JavaScript muy parecido a 'if' con la diferencia que en 'for' tenemos una variable, la cual va entre los parentesis, que se repite constantemente
+    hasta que la expresion condicional que nosotros usemos sea falsa. En otras palabras, 'for' es utilizado para que nuestra linea de codigo se repita hasta que nosotros digamos.
+
+&&:
+    Las siglas '&&' simbolizan 'AND' y se utiliza para evaluar el valor de verdad de 2 expresiones, devolviendo 'true' si ambas son verdaderas o 'false' si al menos 1 o ambas 
+    expresiones son falsas
+
+||: 
+    Las siglas '||' simbolizan 'OR' y evaluan el valor de verdad entre 2 expresiones. Si 1 expresion o ambas son verdaderas devuelve 'true' y solo si ambas son falsas devuelve 'false'
+
+!: 
+    La sigla '!' simboliza 'NOT' y se utiliza para negar la expresion que estamos escribiendo, tambien la podemos utilizar para indicar que un valor no es igual al otro (!==)
