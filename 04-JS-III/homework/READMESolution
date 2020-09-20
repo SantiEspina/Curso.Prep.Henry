@@ -1,0 +1,3 @@
+ARRAY:
+    Las arrays o arreglos son matriz de una sola fila sin columnas, que tienen una serie de elementos ordenados al cual nosotros podemos acceder. 
+    Estos elementos van separados por una coma y pueden ser cualquier tipo de datos, ya sean numeros strings o booleanos.
