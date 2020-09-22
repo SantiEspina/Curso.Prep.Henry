@@ -1,0 +1,7 @@
+PROTOTYPE:
+    Nosotros usamos este recurso para establecer un metodo ( funcion ) de forma generica en una clase y darle acceso a todos los objetos de nuestra clase 
+    a que puedan usar el metodo sin la necesidad de tener que escribirlo en sus propiedades.
+
+CONSTRUCTORS:
+    Recibe este nombre las funciones constructoras que crean nuestra clase y que dentro de ellas se encontraran las propiedades genericas que nuestros 
+    objetos mas tarde adquiriran.
