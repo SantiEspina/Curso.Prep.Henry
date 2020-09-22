@@ -1,0 +1,22 @@
+OBJETOS:
+    Los objetos son contenedores de datos. Similar a las matrices pero estos dan mucha informacion acerca de solo una cosa.
+    Nos permiten separar nuestros valores por categorias y estar mas ordenados.
+
+PROPIEDADES:
+    Las propiedades de un objeto estan divididas por 'pares clave: valor'. En otras palabras, se separan por identificadores, en este caso claves (key), y 
+    por los valores de estas clases, denominados values.
+
+METODOS:
+    Los metodos son funciones guardadas dentro de un objeto. Es decir, nosotros dentro del objeto vamos a tener un identificador o clave que su valor sera 
+    una funcion, dentro de ella le podremos pedir que haga lo que queramos. Esta funcion recibe el nombre de metodo.
+
+BUCLE 'for... in':
+    Cuando nosotros queriamos recorrer las matrices lo haciamos con el bucle 'for', cuando nosotros queramos recorrer un objeto tendremos que ocupar el bucle 
+    'for.. in'. Este nos permitira iterar sobre cada 'par clave: valor'.
+
+NOTACION PUNTOS Y CORCHETES:
+    En los objetos se nos permite asignar valores, acceder a ellos inclusive a eliminarlos y muchas posibilidades mas. Para hacerlo tendremos que ocupar 
+    la notacion en puntos o la notacion de corchetes. La notacion de puntos consiste en poner el nombre de nuestro objeto, un punto y el nombre de nuestro
+    identificador o clave. La notacion de corchetes es muy similar a las matrices ya que, tendremos que poner el nombre de nuestro objeto seguido de corchetes
+    con la diferencia que dentro de los corchetes tendremos que poner el nombre de nuestro identificador entre comillas.
+    
