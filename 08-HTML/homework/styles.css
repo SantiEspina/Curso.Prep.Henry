@@ -1,0 +1,33 @@
+body {
+    background: url(https://mendoza-camara.org/wp-content/uploads/2018/03/Oto%C3%B1o-en-Mendoza-750x400.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+
+}
+body .center {
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: black;
+
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: saddlebrown;
+    padding: 50px;
+    border: 1px dashed black;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}

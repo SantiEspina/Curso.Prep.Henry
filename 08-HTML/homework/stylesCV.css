@@ -1,0 +1,31 @@
+#titulo {
+    font-size: 50px;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.datosPersonales {
+    color: tomato;
+    font-size: 20px;
+    padding: 1px;
+}
+.educacion {
+    color: teal;
+    font-size: 20px;
+    padding: 1px;
+}
+span {
+    font-size: 20px;
+    padding: 1px;
+}
+.skills {
+    color: turquoise;
+    font-size: 20px;
+    padding: 1px;
+}
+.hobbies {
+    color: violet;
+    font-size: 20px;
+    padding: 1px;
+}
